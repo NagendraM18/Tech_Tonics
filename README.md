@@ -1,4 +1,4 @@
-<h1 >🌟 Competition Project – [ByteBurst]</h1><br>
+<h1 >🌟 Competition – [ByteBurst]</h1><br>
 
 📌 Overview
 
