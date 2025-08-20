@@ -3,7 +3,7 @@
 📌 Overview
 
 This repository contains the source code developed for [ByteBurst].
-Our project is designed to improve your coding and problem solving skill, with focus on performance, clean code, and innovative logic.
+Our project is designed to improve your coding and problem solving skill, which  focus on performance, clean code, and innovative logic.
 
 <h2>⚙️ Features</h2>
 
